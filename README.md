@@ -1,4 +1,4 @@
-#A Task Tracker app done by react and Json server as a dummy backend
+# A Task Tracker app done by react and Json server as a dummy backend
 in this app you can add and delete tasks, and check for completed tasks ( by double tapping on them ), the tasks are stored in a local JSON server
 after getting started with react ( as explained down below ), to run the app you need to :
   run the react app by 'npm start'
